@@ -1,0 +1,7 @@
+The length of rental is : 5
+The price of rental is : 25000
+After adding integer 666, kms is:3554.8
+The income of company is :92000  by renting cars.
+AAA666  5
+BOY888  10
+NKK555  6

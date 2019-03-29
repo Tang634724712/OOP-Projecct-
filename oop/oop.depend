@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1526847861 source:f:\elte\degree\2nd semester\programming\project\oop project\mypoject\oop\oop\main.cpp
+	<iostream>
+	"header.h"
+	"car.h"
+	<string>
+	<fstream>
+	<vector>
+	"stdlib.h"
+
+1526848323 f:\elte\degree\2nd semester\programming\project\oop project\mypoject\oop\oop\include\car.h
+	<iostream>
+	"header.h"
+
+1526847933 f:\elte\degree\2nd semester\programming\project\oop project\mypoject\oop\oop\include\header.h
+	<iostream>
+	"car.h"
+	<vector>
+	<string>
+	"stdlib.h"
+
+1526847877 source:f:\elte\degree\2nd semester\programming\project\oop project\mypoject\oop\oop\src\car.cpp
+	"car.h"
+	<iostream>
+	"header.h"
+
